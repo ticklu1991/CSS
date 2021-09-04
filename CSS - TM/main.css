@@ -1,0 +1,15 @@
+h1{
+    color:green;
+}
+
+body{
+    background-color:#f4f4f4; 
+    /* text-color */
+    color:#5555;
+
+    font-family:Arial,Helvetica,sans-serif;
+
+    /* RGB Colour: R G B
+    color: rgb(0,0,255) */
+}
+
